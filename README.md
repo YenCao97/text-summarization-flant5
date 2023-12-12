@@ -12,7 +12,7 @@ The project files are organized into the following main stages of the developmen
 
 2. Train Reward Model: Includes code and data related to training the reward model, a critical component in RLHF.
 
-3. Train Policy with Reinforcement Learning: This section houses code and data for training the policy using reinforcement learning techniques.
+3. Train Policy with Reinforcement Learning: This section covers code and data for training the policy using reinforcement learning techniques.
 
 ## Data Sources
 To implement this research, we use the following datasets and resources:
